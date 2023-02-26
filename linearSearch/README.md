@@ -4,7 +4,6 @@
 
 চলেন এবার লিনিয়ার সার্চ কোডে ইমপ্লিমেন্ট করে দেখি—
 
-COPY
 const linearSearch = (arr, target) => {
 for (let i = 0; i < arr.length; i++) {
 if (arr[i] === target) {
